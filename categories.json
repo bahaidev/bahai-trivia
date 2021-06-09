@@ -1,0 +1,10 @@
+{ "categories": [{
+    "id":0,
+    "name":"Central Figures - Dates",
+    "slug":"cf_dates"
+  }, {
+    "id":1,
+    "name":"Holy days",
+    "slug":"holydays"
+  }]
+}
