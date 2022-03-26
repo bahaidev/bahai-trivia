@@ -1,0 +1,20 @@
+{	"id":"cf_abdulbaha",
+	"questions": [{
+		"id":"cfa0001",
+    	"text":"What piece of furniture did the Master keep giving away to the poor in Haifa?",
+    	"choices": [{
+    		"id":"cfa0001_a",
+    		"text":"seat cushions"
+    	},{
+    		"id":"cfa0001_b",
+    		"text":"chairs"
+    	},{
+    		"id":"cfa0001_c",
+    		"text":"tables"
+    	},{
+    		"id":"cfa0001_d",
+    		"text":"beds",
+    		"correct":"true"
+    	}]
+  }]
+}

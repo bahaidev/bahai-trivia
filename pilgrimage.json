@@ -1,0 +1,20 @@
+{	"id":"pilgrimage",
+	"questions": [{
+		"id":"plg0001",
+    	"text":"What do pilgrims do during a pilgrimage to the Bahá'í World Center?",
+    	"choices": [{
+    		"id":"plg0001_a",
+    		"text":"Tour Haifa and eat hummus"
+    	},{
+    		"id":"plg0001_b",
+    		"text":"Walk in the gardens of Bahji looking for butterflies",
+    		"correct":"true"
+    	},{
+    		"id":"plg0001_c",
+    		"text":"Visit and pray at the shrines"
+    	},{
+    		"id":"plg0001_d",
+    		"text":"Stay in their hotel room because of COVID-19"
+    	}]
+  }]
+}

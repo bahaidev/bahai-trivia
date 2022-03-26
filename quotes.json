@@ -1,0 +1,36 @@
+{	"id":"quotes",
+	"questions": [{
+		"id":"q0001",
+    	"text":"\"Close thine eyes to all things else and open them to...\"",
+    	"choices": [{
+    		"id":"q0001_a",
+    		"text":"the Abha Kingdom"
+    	},{
+    		"id":"q0001_b",
+    		"text":"My Beauty"
+    	},{
+    		"id":"q0001_c",
+    		"text":"the Realm of the All-Glorious",
+    		"correct":"true"
+    	},{
+    		"id":"q0001_d",
+    		"text":"the Concourse on High"
+    	},{
+		"id":"q0002",
+    	"text":"The following is an excerpt of a Tablet by the Master: \"I have no time to talk, leave me alone! You said 'write' - I have written. What else should be done?\" to whom is this Tablet addressed?",
+    	"choices": [{
+    		"id":"q0002_a",
+    		"text":"Thomas Breakwell"
+    	},{
+    		"id":"q0002_b",
+    		"text":"Shoghi Effendi",
+    		"correct":"true"
+    	},{
+    		"id":"q0002_c",
+    		"text":"Dr. Auguste Forel"
+    	},{
+    		"id":"q0002_d",
+    		"text":"Siyyid Hasan Taqizadih"
+    	}]
+  }]
+}

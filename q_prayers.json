@@ -1,0 +1,20 @@
+{	"id":"q_prayers",
+	"questions": [{
+		"id":"qp0001",
+    	"text":"Which of the following is the incipit of the Tablet of Ahmad? He is...",
+    	"choices": [{
+    		"id":"qp0001_a",
+    		"text":"the All-Glorious"
+    	},{
+    		"id":"qp0001_b",
+    		"text":"the King, the All-Knowing, the Wise",
+    		"correct":"true"
+    	},{
+    		"id":"qp0001_c",
+    		"text":"the Gracious, the Well-Beloved"
+    	},{
+    		"id":"qp0001_d",
+    		"text":"God!"
+    	}]
+  }]
+}

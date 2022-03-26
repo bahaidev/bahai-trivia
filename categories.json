@@ -1,10 +1,20 @@
 { "categories": [{
-    "id":0,
     "name":"Central Figures - Dates",
     "slug":"cf_dates"
   }, {
-    "id":1,
     "name":"Holy days",
     "slug":"holydays"
+  }, {
+    "name":"Quotes - General",
+    "slug":"quotes"
+  }, {
+    "name":"Quotes - Prayers",
+    "slug":"q_prayers"
+  },{
+    "name":"Pilgrimage",
+    "slug":"pilgrimage"
+  }, {
+    "name":"Central Figures - 'Abdu'l-Bahá",
+    "slug":"cf_abdulbaha"
   }]
 }
