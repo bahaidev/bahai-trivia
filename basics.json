@@ -1,0 +1,173 @@
+{	"id":"basics",
+	"questions": [{
+		"id":"bas0001",
+    	"text":"Nine elected members make up this institution that guides the development of the Baha'i world.",
+    	"choices": [{
+    		"id":"bas0001_a",
+    		"text":"The United Nations"
+    	},{
+    		"id":"bas0001_b",
+    		"text":"The Continental Board of Counsellors"
+    	},{
+    		"id":"bas0001_c",
+    		"text":"The Universal House of Justice",
+    		"correct":"true"
+    	},{
+    		"id":"bas0001_d",
+    		"text":"The International Spiritual Assembly"
+    	}]
+    },{
+		"id":"bas0002",
+    	"text":"The Baha'i principle in which humanity will always be guided by a series of Messengers sent by God as the need arises is known as...",
+    	"choices": [{
+    		"id":"bas0002_a",
+    		"text":"The Holy Trinity"
+    	},{
+    		"id":"bas0002_b",
+    		"text":"Progressive Revelation",
+    		"correct":"true"
+    	},{
+    		"id":"bas0002_c",
+    		"text":"The Most Great Peace"
+    	},{
+    		"id":"bas0002_d",
+    		"text":"Ayyam-i-Ha"
+    	}]
+    },{
+		"id":"bas0003",
+    	"text":"Baha'u'llah teachers that heaven and hell...",
+    	"choices": [{
+    		"id":"bas0003_a",
+    		"text":"are to be understood symbolically, describing states of nearness to and distance from God in this world and in the realms beyond",
+    		"correct":"true"
+    	},{
+    		"id":"bas0003_b",
+    		"text":"are physical places we are sent to after death for all of eternity"
+    	},{
+    		"id":"bas0003_c",
+    		"text":"are worlds our souls sent to have a period of time in purgatory"
+    	},{
+    		"id":"bas0003_d",
+    		"text":"are nonexistent because our souls cease to exist after death"
+    	}]
+    },{
+		"id":"bas0004",
+    	"text":"In his last will and testament, Baha'u'llah appointed this individual as the head of the Baha'i Faith and interpreter of his teachings.",
+    	"choices": [{
+    		"id":"bas0004_a",
+    		"text":"Shoghi Effendi"
+    	},{
+    		"id":"bas0004_b",
+    		"text":"The Universal House of Justice"
+    	},{
+    		"id":"bas0004_c",
+    		"text":"The Báb"
+    	},{
+    		"id":"bas0004_d",
+    		"text":"'Abdu'l-Bahá",
+    		"correct":"true"
+    	}]
+    },{
+		"id":"bas0005",
+    	"text":"This central figure in the history of the Baha'i Faith was publicly executed in 1850 for teaching a new religion.",
+    	"choices": [{
+    		"id":"bas0005_a",
+    		"text":"'Abdu'l-Bahá"
+    	},{
+    		"id":"bas0005_b",
+    		"text":"Bahá'u'lláh"
+    	},{
+    		"id":"bas0005_c",
+    		"text":"Shoghi Effendi"
+    	},{
+    		"id":"bas0005_d",
+    		"text":"The Báb",
+    		"correct":"true"
+    	}]
+    },{
+		"id":"bas0006",
+    	"text":"Baha'u'llah teaches that the purpose of this life is...",
+    	"choices": [{
+    		"id":"bas0006_a",
+    		"text":"to develop virtues in preparation for the next world",
+    		"correct":"true"
+    	},{
+    		"id":"bas0006_b",
+    		"text":"to acquire wealth"
+    	},{
+    		"id":"bas0006_c",
+    		"text":"to become powerful and influential"
+    	},{
+    		"id":"bas0006_d",
+    		"text":"to study religion"
+    	}]
+    },{
+		"id":"bas0007",
+    	"text":"According to the teachings of the Baha'i Faith, how should people find spiritual truth?",
+    	"choices": [{
+    		"id":"bas0007_a",
+    		"text":"By learning from the clergy"
+    	},{
+    		"id":"bas0007_b",
+    		"text":"By following their parents' religion"
+    	},{
+    		"id":"bas0007_c",
+    		"text":"By investigating truth for themselves",
+    		"correct":"true"
+    	},{
+    		"id":"bas0007_d",
+    		"text":"By waiting for inspiration"
+    	}]
+    },{
+		"id":"bas0008",
+    	"text":"Which book written by Baha'u'llah contains the laws and ordinances of the Baha'i Faith?",
+    	"choices": [{
+    		"id":"bas0008_a",
+    		"text":"Kitab-i-Iqan (Book of Certitude)"
+    	},{
+    		"id":"bas0008_b",
+    		"text":"Kitab-i-Ahd (Book of the Covenant)"
+    	},{
+    		"id":"bas0008_c",
+    		"text":"Kitab-i-Aqdas (Most Holy Book)",
+    		"correct":"true"
+    	},{
+    		"id":"bas0008_d",
+    		"text":"Epistle to the Son of the Wolf"
+    	}]
+    },{
+		"id":"bas0009",
+    	"text":"The Baha'i World Centre is located in which city?",
+    	"choices": [{
+    		"id":"bas0009_a",
+    		"text":"Haifa, Israel"
+    	},{
+    		"id":"bas0009_b",
+    		"text":"Tehran, Iran"
+    	},{
+    		"id":"bas0009_c",
+    		"text":"Baghdad, Iraq",
+    		"correct":"true"
+    	},{
+    		"id":"bas0009_d",
+    		"text":"New Delhi, India"
+    	}]
+    },{
+		"id":"bas0010",
+    	"text":"Baha'u'llah revealed the teachings of the Baha'i Faith in which two languages?",
+    	"choices": [{
+    		"id":"bas0010_a",
+    		"text":"Persian (Farsi) and Turkish"
+    	},{
+    		"id":"bas0010_b",
+    		"text":"Arabic and Hebrew"
+    	},{
+    		"id":"bas0010_c",
+    		"text":"Arabic and English",
+    		"correct":"true"
+    	},{
+    		"id":"bas0010_d",
+    		"text":"Persian (Farsi) and Arabic"
+    	}]
+  }]
+}
